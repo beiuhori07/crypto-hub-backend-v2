@@ -1,0 +1,27 @@
+name
+"EGLD"
+symbol
+"EGLD"
+quantity: 0.01441910879
+currentPrice: 40.275665716737755
+currentValue: 0.580739205559315
+
+
+
+name
+"EGLD staked"
+symbol
+"EGLD"
+quantity: 10.26717799773385
+currentPrice: 40.275665716737755
+currentValue: 413.5174288909734
+
+
+
+name
+"EGLD staked rewards"
+symbol
+"EGLD"
+quantity: 0.347433558308383
+currentPrice: 40.275665716737755
+currentValue: 13.993117853205149
