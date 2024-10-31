@@ -7,7 +7,7 @@ Features
 - keeps track of live assets:
     - which coins
     - number of coins
-    - live prive/coin
+    - live price/coin
     - 24h % change in price
     - their value
     - in which exchange you own them
