@@ -34,7 +34,7 @@ Features
 
 ![Screenshot 2024-10-31 123423](https://github.com/user-attachments/assets/e94b37a0-8eaa-4542-92e9-a3b5a66cb462)
 
-## Value of the coins held over time
+## Live list of the currently owned coins 
 
 ![Screenshot 2024-10-31 124101](https://github.com/user-attachments/assets/83242315-a741-4ff7-b1b0-1c71bd2fd283)
 
